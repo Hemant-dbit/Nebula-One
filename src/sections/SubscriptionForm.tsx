@@ -113,7 +113,7 @@ export default function SubscriptionForm() {
               </div>
               <h3 className="text-2xl font-bold text-white mb-2">Thank You!</h3>
               <p className="text-gray-300">
-                You've been successfully subscribed. We'll notify you when Nebula One launches.
+                You&#39;ve been successfully subscribed. We&#39;ll notify you when Nebula One launches.
               </p>
               <button
                 onClick={() => setIsSubmitted(false)}

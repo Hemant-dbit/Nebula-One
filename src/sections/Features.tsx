@@ -79,7 +79,7 @@ export default function Features() {
             Revolutionary Features
           </h2>
           <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-            Pushing the boundaries of what's possible in mobile technology.
+            Pushing the boundaries of what&#39;s possible in mobile technology.
           </p>
         </div>
         
@@ -117,7 +117,7 @@ export default function Features() {
         
         <div className={`text-center mt-16 transition-all duration-1000 delay-1200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
           <p className="text-lg text-gray-400 max-w-2xl mx-auto">
-            Every feature has been thoughtfully designed to enhance your daily life. From the moment you pick up Nebula One, you'll experience the future of mobile technology.
+            Every feature has been thoughtfully designed to enhance your daily life. From the moment you pick up Nebula One, you&#39;ll experience the future of mobile technology.
           </p>
         </div>
       </div>
